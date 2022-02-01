@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yje/OsSkqA3SHv3lRfw1NBka/5AQyNRuqSbIYX9X4tbVMdIPLztjfp2Lw4Yeq7apqq/jRkwY/mb/eL47TY3R+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harsh tyagi\\source\\repos\\Milestone1\\Milestone1\\Milestone1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harsh tyagi\\.nuget\\packages\\npgsql\\4.1.2\\npgsql.4.1.2.nupkg.sha512",
+    "C:\\Users\\harsh tyagi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
